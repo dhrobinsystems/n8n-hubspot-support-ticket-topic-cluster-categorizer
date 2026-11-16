@@ -65,6 +65,8 @@ Product teams ask the same question every sprint: *what are customers actually r
 
 ## 2. Architecture
 
+![Workflow Overview](https://raw.githubusercontent.com/dhrobinsystems/n8n-hubspot-support-ticket-topic-cluster-categorizer/main/workflow-overview.png)
+
 ```mermaid
 flowchart LR
     T1[Categorization Schedule<br/>41 * * * *] --> CFG
